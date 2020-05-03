@@ -1,0 +1,16 @@
+C:\Users\Erkan\Desktop\GorselVize\GorselVize\bin\Debug\GorselVize.exe.config
+C:\Users\Erkan\Desktop\GorselVize\GorselVize\bin\Debug\GorselVize.exe
+C:\Users\Erkan\Desktop\GorselVize\GorselVize\bin\Debug\GorselVize.pdb
+C:\Users\Erkan\Desktop\GorselVize\GorselVize\obj\Debug\MainWindow.g.cs
+C:\Users\Erkan\Desktop\GorselVize\GorselVize\obj\Debug\App.g.cs
+C:\Users\Erkan\Desktop\GorselVize\GorselVize\obj\Debug\GorselVize_MarkupCompile.cache
+C:\Users\Erkan\Desktop\GorselVize\GorselVize\obj\Debug\GorselVize_MarkupCompile.lref
+C:\Users\Erkan\Desktop\GorselVize\GorselVize\obj\Debug\MainWindow.baml
+C:\Users\Erkan\Desktop\GorselVize\GorselVize\obj\Debug\GorselVize.g.resources
+C:\Users\Erkan\Desktop\GorselVize\GorselVize\obj\Debug\GorselVize.Properties.Resources.resources
+C:\Users\Erkan\Desktop\GorselVize\GorselVize\obj\Debug\GorselVize.csproj.GenerateResource.cache
+C:\Users\Erkan\Desktop\GorselVize\GorselVize\obj\Debug\GorselVize.exe
+C:\Users\Erkan\Desktop\GorselVize\GorselVize\obj\Debug\GorselVize.pdb
+C:\Users\Erkan\Desktop\GorselVize\GorselVize\obj\Debug\GorselVize.csprojAssemblyReference.cache
+C:\Users\Erkan\Desktop\GorselVize\GorselVize\obj\Debug\Uygulama.g.cs
+C:\Users\Erkan\Desktop\GorselVize\GorselVize\obj\Debug\Uygulama.baml
